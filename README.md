@@ -22,7 +22,6 @@
  <img src="https://img.shields.io/badge/AWS-gray?style=appveyor&logo=AWS&logoColor=FFFFFF"/>
  </div>
  <br/>
- <br/>
 
  <h4>🖤 Contact me</h4>
  <a href="mailto:alswl1409@gmail.com">
