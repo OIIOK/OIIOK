@@ -10,15 +10,14 @@
  </br>
 
 ## Tech Stack
- <img src="https://img.shields.io/badge/JAVA-gray?style=plastic&logo=Java&logoColor=FFFFFF"/>
- <img src="https://img.shields.io/badge/Spring-gray?style=plastic&logo=spring&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/JAVA-gray?style=plastic&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring-gray?style=plastic&logo=spring&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=JavaScript&logoColor=FFFFFF"/> 
- <img src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=FFFFFF"/>  
- <img src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=CSS3&logoColor=FFFFFF"/>  
- <img src="https://img.shields.io/badge/Oracle-gray?style=plastic&logo=Oracle&logoColor=FFFFFF"/>  
- <img src="https://img.shields.io/badge/MySQL-gray?style=plastic&logo=MySQL&logoColor=FFFFFF"/>  
- <img src="https://img.shields.io/badge/Linux-gray?style=plastic&logo=Linux&logoColor=FFFFFF"/>   
- <img src="https://img.shields.io/badge/AWS-gray?style=plastic&logo=AWS&logoColor=FFFFFF"/>   
+ <img src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=CSS3&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/Oracle-gray?style=plastic&logo=Oracle&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/MySQL-gray?style=plastic&logo=MySQL&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/Linux-gray?style=plastic&logo=Linux&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/AWS-gray?style=plastic&logo=AWS&logoColor=FFFFFF"/>
  <br/>
  <br/>
 
@@ -29,8 +28,6 @@
  </br>
  </br>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiiok%2Fhit-counter&count_bg=%white&title_bg=%gray&icon=github.svg&icon_color=%white&title=hits&edge_flat=false"/></a>
-
-
-
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwnagInUng%2Fhit-counter&count_bg=%23005FFF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/OIIOK">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiiok%2Fhit-counter&count_bg=%20000000&title_bg=%gray&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
