@@ -25,9 +25,6 @@
  <a href="https://oiiok.notion.site/IT-ea3901ca3a70448b898623e61e0d17a7">
   <img src="https://img.shields.io/badge/Notion-gray?style=plastic&logo=Notion&logoColor=FFFFFF"/>
  </a>  
- </br>
- </br>
-
 <a href="https://github.com/OIIOK">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foiiok%2Fhit-counter&count_bg=%20000000&title_bg=%gray&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
