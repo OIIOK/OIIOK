@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Hajin's%20Profile&fontSize=80&animation=twinkling&fontAlign=65&fontAlignY=45&fontColor=######)
 
 
-### Hi there 👋
+### 웹 풀스택, 서버/백엔드 개발자
+- 안녕하세요.
+- 따뜻하게 소통하고 즐겁게 탐구하는 신입 개발자 이하진입니다. 
+- 많이 알려주세요. 성실히 배워서 쑥쑥 성장하는 모습 보여드리겠습니다. 
 
 <!--
 **OIIOK/OIIOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
